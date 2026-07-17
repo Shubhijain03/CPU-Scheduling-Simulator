@@ -86,7 +86,7 @@ The simulator supports the following scheduling algorithms:
 
 ### Performance Metrics
 
-![Performance Metrics](screenshot/performance_metrics_img.png)
+![Performance Metrics](screenshot/performance_metrix.png)
 
 ### Best Algorithm Recommendation
 
@@ -186,7 +186,7 @@ CPU_Scheduling_Simulator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/CPU_Scheduling_Simulator.git
+git clone https://github.com/Shubhijain03/CPU-Scheduling-Simulator.git
 ```
 
 Navigate to the project directory:
@@ -308,6 +308,6 @@ Potential future improvements include:
 
 **Shubhi Jain**
 
-BCA Graduate | Python Developer | Operating Systems | Desktop Application Development
+Python Developer | Operating Systems | Desktop Application Development
 
 ---
