@@ -46,7 +46,7 @@ The simulator supports the following scheduling algorithms:
 
 ## Complete Application
 
-![Complete Window](screenshots/complete_window.png)
+![Complete Window](screenshot/complete_window.png)
 
 ---
 
@@ -54,15 +54,15 @@ The simulator supports the following scheduling algorithms:
 
 ### Process Input
 
-![Process Input](screenshots/process_input.png)
+![Process Input](screenshot/process_input.png)
 
 ### Control Panel
 
-![Control Panel](screenshots/control_panel.png)
+![Control Panel](screenshot/control_panel.png)
 
 ### Algorithm Configuration
 
-![Algorithm Configuration](screenshots/algorithm_configuration.png)
+![Algorithm Configuration](screenshot/algorithm_configuration.png)
 
 ---
 
@@ -70,15 +70,15 @@ The simulator supports the following scheduling algorithms:
 
 ### Execution Results
 
-![Scheduling Results](screenshots/scheduling_result.png)
+![Scheduling Results](screenshot/scheduling_result.png)
 
 ### Execution Timeline
 
-![Execution Timeline](screenshots/execution_timeline.png)
+![Execution Timeline](screenshot/execution_timeline.png)
 
 ### Gantt Chart
 
-![Gantt Chart](screenshots/gantt_chart.png)
+![Gantt Chart](screenshot/gantt_chart.png)
 
 ---
 
@@ -86,11 +86,11 @@ The simulator supports the following scheduling algorithms:
 
 ### Performance Metrics
 
-![Performance Metrics](screenshots/performance_metrics.png)
+![Performance Metrics](screenshot/performance_metrics.png)
 
 ### Best Algorithm Recommendation
 
-![Best Algorithm](screenshots/best_algorithm.png)
+![Best Algorithm](screenshot/best_algorithm.png)
 
 ---
 
@@ -98,15 +98,15 @@ The simulator supports the following scheduling algorithms:
 
 ### CSV / Excel Import
 
-![Import CSV](screenshots/import_csv.png)
+![Import CSV](screenshot/import_csv.png)
 
 ### PDF Report Export
 
-![PDF Export](screenshots/pdf_export.png)
+![PDF Export](screenshot/pdf_export.png)
 
 ### Excel Export
 
-![Excel Export](screenshots/excel_export.png)
+![Excel Export](screenshot/excel_export.png)
 
 ---
 
@@ -173,7 +173,7 @@ CPU_Scheduling_Simulator/
 │   ├── metrics.py
 │   └── pdf_export.py
 │
-├── screenshots/
+├── screenshot/
 ├── requirements.txt
 ├── README.md
 └── sample_processes.csv
