@@ -86,7 +86,7 @@ The simulator supports the following scheduling algorithms:
 
 ### Performance Metrics
 
-![Performance Metrics](screenshot/performance_metrix.png)
+![Performance Metrics](screenshot/preformance_metrix.png)
 
 ### Best Algorithm Recommendation
 
